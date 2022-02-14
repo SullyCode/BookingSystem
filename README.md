@@ -1,5 +1,5 @@
 # TheatreBookingSystem
-Project Scope and requirements: 
+Project Scope: 
 - The project is a new booking system for The Theatre Royal. The User Interface is text-based using the console. There is a separate application for Theatre Employees and for the General Public to use to book tickets.
 - The theatre offers information regarding forthcoming shows, and  allows people to
 purchase performance tickets online.
@@ -14,7 +14,7 @@ Breakdown of project design and implementation:
 
 Application Testing - TDD
 
-- TDD Read, Understand and Process the various features being implemented from the project requirements
+- TDD Read, Understand and Process the various features being implemented for the project
 - TDD Translated project requirements by writing unit tests 
 - TDD Implement code that fulfils the requirements
 - Cleaning up code by refactoring (repeated process for further features/ requirements)
